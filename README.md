@@ -5,4 +5,5 @@ This repository contains my workout tracker. The project was a homework assignme
 
 Link: https://nameless-escarpment-16271.herokuapp.com/
 
+<img src="FitnessTracker.png">
 
